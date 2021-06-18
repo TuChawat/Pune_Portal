@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="46767" started-at="2021-06-15T16:17:39 IST" finished-at="2021-06-15T16:18:26 IST">
+    <groups>
+    </groups>
+    <test name="C:/Users/Admin/Travel_pass/src/test/java/com/bridgelabz/selenium/TravelPassTest.java" duration-ms="46767" started-at="2021-06-15T16:17:39 IST" finished-at="2021-06-15T16:18:26 IST">
+      <class name="com.bridgelabz.selenium.TravelPassTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.bridgelabz.selenium.TravelPassTest@640dc4c6]" name="setup" is-config="true" duration-ms="14770" started-at="2021-06-15T16:17:39 IST" finished-at="2021-06-15T16:17:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.bridgelabz.selenium.TravelPassTest@640dc4c6]" name="startTest" is-config="true" duration-ms="683" started-at="2021-06-15T16:17:54 IST" finished-at="2021-06-15T16:17:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="travelPass()[pri:0, instance:com.bridgelabz.selenium.TravelPassTest@640dc4c6]" name="travelPass" duration-ms="5738" started-at="2021-06-15T16:17:55 IST" finished-at="2021-06-15T16:18:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travelPass -->
+        <test-method status="PASS" signature="punePortal()[pri:1, instance:com.bridgelabz.selenium.TravelPassTest@640dc4c6]" name="punePortal" duration-ms="22089" started-at="2021-06-15T16:18:01 IST" finished-at="2021-06-15T16:18:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- punePortal -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.bridgelabz.selenium.TravelPassTest@640dc4c6]" name="endTest" is-config="true" duration-ms="2831" started-at="2021-06-15T16:18:23 IST" finished-at="2021-06-15T16:18:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.bridgelabz.selenium.TravelPassTest -->
+    </test> <!-- C:/Users/Admin/Travel_pass/src/test/java/com/bridgelabz/selenium/TravelPassTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

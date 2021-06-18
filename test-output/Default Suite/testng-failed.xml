@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="Travel_pass(failed)">
+    <classes>
+      <class name="com.bridgelabz.selenium.TravelPassTest">
+        <methods>
+          <include name="startTest"/>
+          <include name="endTest"/>
+          <include name="setup"/>
+          <include name="punePortal"/>
+        </methods>
+      </class> <!-- com.bridgelabz.selenium.TravelPassTest -->
+    </classes>
+  </test> <!-- Travel_pass(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
